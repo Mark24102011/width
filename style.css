@@ -1,0 +1,34 @@
+@media (min-width:1024px){
+   .arbuz{
+    display: block;
+   }
+}
+@media (max-width:1024px){
+    .dunia{
+        display: block;
+       }
+}
+@media (max-width:768px){
+    .dunia{
+        display: none;
+       }
+}
+@media (max-width:768px){
+    .apelsin{
+        display: block;
+       }
+}
+@media (max-width:375px){
+    .apelsin{
+        display: none;
+       }
+}
+@media (max-width:375px){
+    .iabliko{
+        display: block;
+       }
+}
+img{
+    display: none;
+    width: 200px;
+}
